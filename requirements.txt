@@ -3,5 +3,5 @@ opencv-python==4.10.0.84
 pillow==10.4.0
 PlexAPI==4.15.16
 kometautils==0.3.4
-requests==2.32.3
+requests==2.32.4
 tmdbapis==1.2.21
